@@ -1,0 +1,1 @@
+import{d as o,o as e,c as s,u as _,em as t,j as c}from"./index-95e0417b.js";const a=["src"],n=o({__name:"OkxLogo",setup(r){return(l,p)=>(e(),s("img",{class:"logo",src:_(t),alt:"",srcset:""},null,8,a))}});const d=c(n,[["__scopeId","data-v-b934f562"]]);export{d as default};

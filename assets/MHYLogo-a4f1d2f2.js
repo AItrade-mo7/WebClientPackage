@@ -1,0 +1,1 @@
+import{j as o,o as c,c as e}from"./index-95e0417b.js";const s={},t={class:"logo",src:"//img-static.mihoyo.com/favicon.ico",alt:"",srcset:""};function _(a,n){return c(),e("img",t)}const i=o(s,[["render",_],["__scopeId","data-v-f0a9a073"]]);export{i as default};

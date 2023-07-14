@@ -1,0 +1,1 @@
+import{b1 as s,G as a}from"./index-95e0417b.js";const e=t=>s({url:"/api/ping",data:t,method:"post"}),i=()=>s({BaseUrl:a().MsgUrl,url:"/api/public/GetSysEmailList",data:"",method:"post"});export{i as G,e as P};

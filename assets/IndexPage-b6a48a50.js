@@ -1,0 +1,1 @@
+import{d as e,c as a,b as _,u as s,o as t,B as o,j as c}from"./index-95e0417b.js";const n={class:"PageWrapper"},r=e({__name:"IndexPage",setup(d){return(p,u)=>(t(),a("div",n,[_(s(o))]))}});const i=c(r,[["__scopeId","data-v-fbc748b8"]]);export{i as default};

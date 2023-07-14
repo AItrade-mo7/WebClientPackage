@@ -1,0 +1,1 @@
+import{d as e,o,c as s,u as _,en as t,j as a}from"./index-95e0417b.js";const c=["src"],n=e({__name:"ZTSLogo",setup(r){return(d,l)=>(o(),s("img",{class:"logo",src:_(t),alt:"",srcset:""},null,8,c))}});const f=a(n,[["__scopeId","data-v-a0f5dfed"]]);export{f as default};
